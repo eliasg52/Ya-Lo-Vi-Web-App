@@ -1,0 +1,68 @@
+[1634170948296] [32mINFO[39m (20096 on DESKTOP-7OQKHUE): [36mServer listening at http://127.0.0.1:3000[39m
+[1634170954705] [32mINFO[39m (20096 on DESKTOP-7OQKHUE): [36mincoming request[39m
+    req: {
+      "method": "GET",
+      "url": "/",
+      "hostname": "127.0.0.1:3000",
+      "remoteAddress": "127.0.0.1",
+      "remotePort": 49840
+    }
+    reqId: "req-1"
+[1634170954719] [32mINFO[39m (20096 on DESKTOP-7OQKHUE): [36mrequest completed[39m
+    res: {
+      "statusCode": 200
+    }
+    responseTime: 11.369699999690056
+    reqId: "req-1"
+[1634173647971] [32mINFO[39m (14508 on DESKTOP-7OQKHUE): [36mServer listening at http://127.0.0.1:3000[39m
+[1634173652669] [32mINFO[39m (13276 on DESKTOP-7OQKHUE): [36mServer listening at http://127.0.0.1:3000[39m
+[1634173657527] [32mINFO[39m (14972 on DESKTOP-7OQKHUE): [36mServer listening at http://127.0.0.1:3000[39m
+[1634175612263] [32mINFO[39m (3232 on DESKTOP-7OQKHUE): [36mServer listening at http://127.0.0.1:3000[39m
+[1634175617616] [32mINFO[39m (3232 on DESKTOP-7OQKHUE): [36mincoming request[39m
+    req: {
+      "method": "GET",
+      "url": "/",
+      "hostname": "127.0.0.1:3000",
+      "remoteAddress": "127.0.0.1",
+      "remotePort": 60287
+    }
+    reqId: "req-1"
+[1634175617622] [32mINFO[39m (3232 on DESKTOP-7OQKHUE): [36mrequest completed[39m
+    res: {
+      "statusCode": 200
+    }
+    responseTime: 5.196299999952316
+    reqId: "req-1"
+[1634175625348] [32mINFO[39m (8772 on DESKTOP-7OQKHUE): [36mServer listening at http://127.0.0.1:3000[39m
+[1634175641265] [32mINFO[39m (8772 on DESKTOP-7OQKHUE): [36mincoming request[39m
+    req: {
+      "method": "GET",
+      "url": "/",
+      "hostname": "127.0.0.1:3000",
+      "remoteAddress": "127.0.0.1",
+      "remotePort": 63696
+    }
+    reqId: "req-1"
+[1634175641273] [32mINFO[39m (8772 on DESKTOP-7OQKHUE): [36mrequest completed[39m
+    res: {
+      "statusCode": 200
+    }
+    responseTime: 7.185699999332428
+    reqId: "req-1"
+[1634175645514] [32mINFO[39m (8772 on DESKTOP-7OQKHUE): [36mincoming request[39m
+    req: {
+      "method": "GET",
+      "url": "/asd",
+      "hostname": "127.0.0.1:3000",
+      "remoteAddress": "127.0.0.1",
+      "remotePort": 63696
+    }
+    reqId: "req-2"
+[1634175645514] [32mINFO[39m (8772 on DESKTOP-7OQKHUE): [36mRoute GET:/asd not found[39m
+    reqId: "req-2"
+[1634175645515] [32mINFO[39m (8772 on DESKTOP-7OQKHUE): [36mrequest completed[39m
+    res: {
+      "statusCode": 404
+    }
+    responseTime: 0.7426000013947487
+    reqId: "req-2"
